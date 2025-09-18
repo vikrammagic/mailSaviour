@@ -1,4 +1,0 @@
-Environment variables:
-DB_URL
-DB_USERNAME
-DB_PASSWORD
